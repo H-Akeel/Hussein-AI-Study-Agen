@@ -1,0 +1,8 @@
+__pycache__/
+venv/
+.env
+.idea/
+.vscode/
+*.log
+# اترك ملف السجل فارغاً في المستودع
+ai_study_logs.txt

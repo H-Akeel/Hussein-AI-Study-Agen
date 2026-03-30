@@ -1,0 +1,7 @@
+pyautogui
+pytesseract
+groq
+streamlit
+pandas
+selenium
+webdriver-manager
